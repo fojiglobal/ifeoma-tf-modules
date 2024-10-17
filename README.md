@@ -1,2 +1,2 @@
 # ifeoma-tf-modules
-Default Repo for Terraform Modules - AWS
+Default Repo for AWS Terraform Modules
